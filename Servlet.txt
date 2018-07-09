@@ -1,0 +1,16 @@
+Basic idea of what i know about servlets:
+
+
+Servlet is used for web programming , it was the basic  programming used for datatransfer/communication between user and clients. 
+
+there are two main classes in servlets. they are 1) generic servlet 2) http servlet.
+
+ we use request and  response to communicate with server. 
+
+servlet acts as a container where it takes the requests and sends the corresponding response. init, service and destroy are the three main methods of servlet. 
+
+Httpservlet has two main methods doget() and dopost()methods. 
+
+Normally when a servlet is initialized, using request and response methods we can communicate between users and server.  
+
+Today we learnt about Servletcontext and servletconfig. But i did not work too much on those. 
