@@ -71,9 +71,5 @@ static String name,address;
 		System.out.println("Inserted Suucessfully");
 		
 	}
-	public static void getEmployee() {
-		
-		
-	}
-
+	
 }
