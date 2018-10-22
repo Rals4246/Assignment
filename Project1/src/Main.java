@@ -3,7 +3,6 @@ import java.io.*;
 public class Main {
 	public static void main(String[] args) throws IOException {
 	 int i;
-	 int j;
 	 BufferedReader b1= new BufferedReader(new InputStreamReader(System.in));
 	 System.out.println("Enter the Number of lines");
 	 int n = Integer.parseInt(b1.readLine());
